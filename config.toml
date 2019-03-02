@@ -13,11 +13,8 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     name = "About"
     url = "/about/"
 [[menu.main]]
-    name = "GitHub"
-    url = "https://github.com/rstudio/blogdown"
-[[menu.main]]
     name = "Twitter"
-    url = "https://twitter.com/rstudio"
+    url = "https://twitter.com/justinsavoie"
 
 [params]
     description = "A website built through Hugo and blogdown."
@@ -32,10 +29,10 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     MathJaxVersion = "2.7.5"
 
     # path to the favicon, under "static"
-    favicon = "favicon.ico"
+    favicon = "favicon2.ico"
 
     [params.logo]
-    url = "logo.png"
+    url = "logo2.png"
     width = 50
     height = 50
     alt = "Logo"
