@@ -1,6 +1,7 @@
 ---
 date: "2016-05-05T21:48:51-07:00"
 title: About
+disableComments: true
 ---
 
 Welcome! I'm Justin Savoie, a student of political science, programmer, data scientist and somewhat dilettante philosophy enthusiast. 

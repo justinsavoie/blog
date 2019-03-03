@@ -17,8 +17,9 @@
       {{ .Content }}
     </div>
   </article>
-
+  {{ if not (eq .Params.disableComments true) }}
   {{ partial "disqus.html" .}}
+  {{ end }}
 
 </main>
 
