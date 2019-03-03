@@ -48,4 +48,3 @@ Riker, W. H. (1982). The two-party system and Duverger's law: an essay on the hi
 Sartori, G. (1976). Party and party systems. A Framework for Analysis. Cambridge, Cambridge UP.
 
 Wolinetz, S. (2004). Classifying Party Systems: Where Have All the Typologies Gone. Paper presented at the Canadian Political Science Association; Manitoba.
-
