@@ -7,6 +7,8 @@ Recently, for an assignment, I had to answer the following question: "Duverger's
 
 This is a timely issue. The federal election is coming up at the end of this year, and between 3 and 5 (6 in Quebec?) parties could possibly be somewhat competitive in some ridings. As recent by-elections have shown, it can be hard for more than two parties to be competitive (Outremont, York-Simcoe), though it's still possible (Burnaby-South). I thought I could share my answer to the question.
 
+Test.
+
 -- -- --
 
 Simply put, Duverger's law proposes that "the simple-majority single-ballot system favors the two-party system." Duverger described this sentence by saying: "Of all the hypotheses, in this book, this approaches most nearly perhaps to a true sociological law" (Duverger 1963, p. 217). (quote in Riker, 1982). It is so because in such plurality systems, third parties cannot last. As Riker explains, plurality rule destroys third parties because a Westminster system underrepresents losing parties who cannot be represented in government or be part of the official opposition (p. 761). Additionally, a psychological factor makes it less likely for voters to be tempted to "waste" their vote by voting for a third party; i.e. "Why should I vote for the Greens when I expect them to get 7%, and I expect the Liberals to get 55%? That's a bit discouraging.
