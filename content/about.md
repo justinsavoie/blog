@@ -4,8 +4,10 @@ title: About
 disableComments: true
 ---
 
-Welcome! I'm Justin Savoie, a student of political science, programmer, data scientist and somewhat dilettante philosophy enthusiast. 
-
-This will at some point become my personal website. Right now, it's simply a place where I can share thoughts.
+Welcome! My name is Justin Savoie, I'm a PhD student in Political Science at the University of Toronto. I also work as a data scientist for Vox Pop Labs, makers of Vote Compass. This is my personal website, where I share a few thoughts.
 
 The theme was forked from [@jrutheiser/hugo-lithium-theme](https://github.com/jrutheiser/hugo-lithium-theme) and modified by [Yihui Xie](https://github.com/yihui/hugo-lithium).
+
+Bonjour! Je m'appelle Justin Savoie, je suis étudiant au doctorat en science politique à l'Université de Toronto. Je suis aussi le scientifique des données de Vox Pop Labs, l'entreprise derrière la Boussole électorale. Ceci est mon site Web personnel, où je partage quelques réflexions.
+
+Pour le thème du site, merci à [@jrutheiser/hugo-lithium-theme](https://github.com/jrutheiser/hugo-lithium-theme) et [Yihui Xie](https://github.com/yihui/hugo-lithium).
